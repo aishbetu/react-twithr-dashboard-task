@@ -1,3 +1,6 @@
+This is the readme file and help to know about the author and project and created by Aishwary (Betu).
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
