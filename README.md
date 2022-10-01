@@ -1,4 +1,5 @@
-This is the readme file and help to know about the author and project and created by Aishwary (Betu).
+This is the readme file and help to know about the author and project and created by Aishwary .
+Hi Aish, please merge the pull request 
 
 
 # Getting Started with Create React App
